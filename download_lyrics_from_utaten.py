@@ -31,6 +31,9 @@ class UtatenDownloader:
     def get_page_url_and_search_result(self) -> tuple[str, str, str]:
         """Gets the url of the lyrics page and the search result.
 
+        Raises:
+            Exception: If no lyrics are found.
+
         Returns:
             tuple: The url of the lyrics page, the search result title and the name of the singer.
         """

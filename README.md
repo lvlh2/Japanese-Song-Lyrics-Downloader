@@ -1,4 +1,4 @@
-# Japanese-Song-Lyrics-Downloader
+# Japanese Song Lyrics Downloader
 
 Download Japanese song lyrics from utaten.com
 
